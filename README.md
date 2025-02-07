@@ -14,7 +14,7 @@ Follow these steps to set up the project locally:
 
     Clone this repository:
 
-git clone https://github.com/yourusername/streamlit-app.git
+git clone https://github.com/KennethTebogo/streamlit-app.git
 cd streamlit-app
 
 Set up a virtual environment:
@@ -23,15 +23,15 @@ python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies:
-
+```
     pip install -r requirements.txt
-
+```
 # Running the App
 
 To run the app locally, use the following command:
-
+```
 streamlit run app.py
-
+```
 This will start a local server, and you can access the app in your browser at http://localhost:8501.
 Requirements
 
